@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Android Kotlin 基础：安装 Android Studio](README.md)
-* [Android Kotlin 基础：开始](android-kotlin-ji-chu-kai-shi.md)
+* [README](README.md)
+* [Android Kotlin 基础：安装 Android Studio](android-kotlin-ji-chu-an-zhuang-android-studio.md)
+* [Android Kotlin 基础：开始](android-kotlin-ji-chu-kai-shi-1.md)
 

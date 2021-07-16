@@ -1,4 +1,4 @@
-# README
+# Android Kotlin 基础：安装 Android Studio
 
 ## 1.欢迎
 
@@ -42,8 +42,4 @@ Android Studio 适用于运行 Windows 或 Linux 的计算机，以及运行 mac
 有关本课程中其他代码实验室的链接，请参阅 [Android Kotlin 基础 codelab 专题页面](https://developer.android.com/courses/kotlin-android-fundamentals/overview)。
 
 > [Android Kotlin Fundamentals:Install Android Studio](https://developer.android.com/codelabs/kotlin-android-training-install-studio?index=..%2F..android-kotlin-fundamentals#0)
-
-
-
-
 
